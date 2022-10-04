@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tool_icons/Ai-illustrator-file.png</file>
+        <file>tool_icons/blueprint-pencil.png</file>
+        <file>tool_icons/color-swatches.png</file>
+        <file>tool_icons/crop-tool.png</file>
+        <file>tool_icons/draw-inside-mode.png</file>
+        <file>tool_icons/drawing-tablet.png</file>
+        <file>tool_icons/easel.png</file>
+        <file>tool_icons/eraser.png</file>
+        <file>tool_icons/eyedropper.png</file>
+        <file>tool_icons/eyes.png</file>
+        <file>tool_icons/graphic-design.png</file>
+        <file>tool_icons/group-layers.png</file>
+        <file>tool_icons/Id-indesign-file.png</file>
+        <file>tool_icons/notebook.png</file>
+        <file>tool_icons/paint-roller.png</file>
+        <file>tool_icons/paint-sprayer.png</file>
+        <file>tool_icons/pencil-ruler.png</file>
+        <file>tool_icons/registration-mark-file.png</file>
+        <file>tool_icons/type-path-tool.png</file>
+        <file>tool_icons/axe.png</file>
+        <file>tool_icons/Cube.png</file>
+        <file>tool_icons/hammer-and-screwdriver.png</file>
+        <file>tool_icons/saw.png</file>
+        <file>tool_icons/tape-ruler.png</file>
+        <file>tool_icons/tool-box.png</file>
+        <file>tool_icons/triangle-ruler.png</file>
+        <file>tool_icons/white-paint-roller.png</file>
+        <file>tool_icons/wrench.png</file>
+        <file>tool_icons/wrench-and-hand.png</file>
+        <file>tool_icons/wrench-and-screwdriver.png</file>
+    </qresource>
+</RCC>
