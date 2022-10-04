@@ -10,14 +10,10 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp \
-    todolist.cpp \
-    toolbarbuttons.cpp
+    mainwindow.cpp
 
 HEADERS += \
-    mainwindow.h \
-    todolist.h \
-    toolbarbuttons.h
+    mainwindow.h
 
 FORMS +=
 
